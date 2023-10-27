@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/374458850.svg)](https://zenodo.org/badge/latestdoi/374458850)
 
-# Machine Learning Methods and Deep Leerning - A short introduction
+# Machine Learning Methods and Deep Learning - A short introduction
 
 Part of the course "[Systems Biology - From large data sets to
 biological
